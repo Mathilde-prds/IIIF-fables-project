@@ -6,6 +6,63 @@
   "type" : "Manifest",
   "@context" : "http://iiif.io/api/presentation/3/context.json",
   "items" : [ {
+    "width" : 1317,
+    "id" : "https://Mathilde-prds.github.io/IIIF-fables-project/images/fable10_p1/canvas/",
+    "label" : {
+      "none" : [ "fable10_p1" ]
+    },
+    "type" : "Canvas",
+    "items" : [ {
+      "id" : "https://Mathilde-prds.github.io/IIIF-fables-project/images/fable10_p1/AnnoPage/",
+      "type" : "AnnotationPage",
+      "items" : [ {
+        "motivation" : "Painting",
+        "id" : "https://Mathilde-prds.github.io/IIIF-fables-project/images/fable10_p1/annotation/",
+        "type" : "Annotation",
+        "body" : {
+          "service" : [ {
+            "tiles" : [ {
+              "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+              "width" : 1024,
+              "height" : 1024
+            } ],
+            "protocol" : "http://iiif.io/api/image",
+            "sizes" : [ {
+              "width" : 42,
+              "height" : 58
+            }, {
+              "width" : 83,
+              "height" : 116
+            }, {
+              "width" : 165,
+              "height" : 231
+            }, {
+              "width" : 330,
+              "height" : 461
+            }, {
+              "width" : 659,
+              "height" : 922
+            }, {
+              "width" : 1317,
+              "height" : 1843
+            } ],
+            "profile" : "http://iiif.io/api/image/2/level0.json",
+            "width" : 1317,
+            "@id" : "https://Mathilde-prds.github.io/IIIF-fables-project/images/fable10_p1",
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "height" : 1843
+          } ],
+          "format" : "image/jpeg",
+          "width" : 1317,
+          "id" : "https://Mathilde-prds.github.io/IIIF-fables-project/images/fable10_p1/full/full/0/default.jpg",
+          "type" : "Image",
+          "height" : 1843
+        },
+        "target" : "https://Mathilde-prds.github.io/IIIF-fables-project/images/fable10_p1/canvas/"
+      } ]
+    } ],
+    "height" : 1843
+  }, {
     "width" : 1311,
     "id" : "https://Mathilde-prds.github.io/IIIF-fables-project/images/fable9_p2/canvas/",
     "label" : {
