@@ -1,0 +1,238 @@
+{
+  "@context" : "http://iiif.io/api/presentation/2/context.json",
+  "@id" : "https://Mathilde-prds.github.io/IIIF-fables-project/manifests/manifest.json",
+  "@type" : "sc:Manifest",
+  "label" : "Mathilde Prades's manifest",
+  "metadata" : [ {
+    "label" : "Author",
+    "value" : "La Fontaine, Jean de (1621-1695)"
+  }, {
+    "label" : "Place of publication",
+    "value" : "Paris"
+  }, {
+    "label" : "Date of publication",
+    "value" : "1668"
+  }, {
+    "label" : "Publisher",
+    "value" : "Barbin, Claude (1628?-1698)"
+  }, {
+    "label" : "Engraver",
+    "value" : "Chauveau, François (1613-1676)"
+  }, {
+    "label" : "Source",
+    "value" : "<span>From: <a href=\"https://gallica.bnf.fr/ark:/12148/btv1b8610825d/f81.item\">Gallica</a></span>"
+  } ],
+  "description" : [ {
+    "@value" : "Collection of three fables by Jean de La Fontaine",
+    "@language" : "en"
+  } ],
+  "viewingDirection" : "left-to-right",
+  "viewingHint" : "paged",
+  "license" : "https://creativecommons.org/licenses/by/3.0/",
+  "attribution" : "Copyrights Bibliothèque nationale de France",
+  "sequences" : [ {
+    "@id" : "http://299eb0b3-09d3-42ee-b4c9-730e6b1167f5",
+    "@type" : "sc:Sequence",
+    "label" : [ {
+      "@value" : "Normal Sequence",
+      "@language" : "en"
+    } ],
+    "canvases" : [ {
+      "@id" : "http://ba46339d-2b5d-4245-8fe2-a1d675a2b78a",
+      "@type" : "sc:Canvas",
+      "label" : "Le Rat de Ville & le Rat des Champs",
+      "metadata" : [ {
+        "label" : "Page",
+        "value" : "1/2"
+      } ],
+      "height" : 1843,
+      "width" : 1317,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://0d3583eb-3fd7-4e34-a1ce-6c3d4d31c15f",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://mathilde-prds.github.io/IIIF-fables-project/images/fable9_p1/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://mathilde-prds.github.io/IIIF-fables-project/images/fable9_p1",
+            "profile" : "http://iiif.io/api/image/2/level0.json"
+          },
+          "height" : 1843,
+          "width" : 1317
+        },
+        "on" : "http://ba46339d-2b5d-4245-8fe2-a1d675a2b78a"
+      } ],
+      "related" : ""
+    }, {
+      "@id" : "http://44b8bf6a-0a86-4e4a-82c9-33b0a42b2120",
+      "@type" : "sc:Canvas",
+      "label" : "Le Rat de Ville & le Rat des Champs",
+      "metadata" : [ {
+        "label" : "Page",
+        "value" : "2/2"
+      } ],
+      "height" : 1850,
+      "width" : 1311,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://4284ad99-4935-431b-ae6b-9f4252a3f007",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://mathilde-prds.github.io/IIIF-fables-project/images/fable9_p2/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://mathilde-prds.github.io/IIIF-fables-project/images/fable9_p2",
+            "profile" : "http://iiif.io/api/image/2/level0.json"
+          },
+          "height" : 1850,
+          "width" : 1311
+        },
+        "on" : "http://44b8bf6a-0a86-4e4a-82c9-33b0a42b2120"
+      } ],
+      "related" : ""
+    }, {
+      "@id" : "http://0e809085-0d76-4dbc-b675-8be5a595526d",
+      "@type" : "sc:Canvas",
+      "label" : "Le Loup & l'Agneau",
+      "metadata" : [ {
+        "label" : "Page",
+        "value" : "1/2"
+      } ],
+      "height" : 1843,
+      "width" : 1317,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://d0c27dbb-89a7-4c8f-b570-783e10ec01c8",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://mathilde-prds.github.io/IIIF-fables-project/images/fable10_p1/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://mathilde-prds.github.io/IIIF-fables-project/images/fable10_p1",
+            "profile" : "http://iiif.io/api/image/2/level0.json"
+          },
+          "height" : 1843,
+          "width" : 1317
+        },
+        "on" : "http://0e809085-0d76-4dbc-b675-8be5a595526d"
+      } ],
+      "related" : ""
+    }, {
+      "@id" : "http://0fd9060a-c5d5-4b1a-90e6-9080f5e01d42",
+      "@type" : "sc:Canvas",
+      "label" : "Le Loup & l'Agneau",
+      "metadata" : [ {
+        "label" : "Page",
+        "value" : "2/2"
+      } ],
+      "height" : 1850,
+      "width" : 1311,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://9a850a85-9192-417f-aeae-952ca473583e",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://mathilde-prds.github.io/IIIF-fables-project/images/fable10_p2/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://mathilde-prds.github.io/IIIF-fables-project/images/fable10_p2",
+            "profile" : "http://iiif.io/api/image/2/level0.json"
+          },
+          "height" : 1850,
+          "width" : 1311
+        },
+        "on" : "http://0fd9060a-c5d5-4b1a-90e6-9080f5e01d42"
+      } ],
+      "related" : ""
+    }, {
+      "@id" : "http://d180ea8f-877f-4138-8727-de3026c9ba9d",
+      "@type" : "sc:Canvas",
+      "label" : "L'Homme, & son Image",
+      "metadata" : [ {
+        "label" : "Page",
+        "value" : "1/2"
+      } ],
+      "height" : 1843,
+      "width" : 1317,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://18addbca-bcd0-4aa0-8a49-25b5db61e483",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://mathilde-prds.github.io/IIIF-fables-project/images/fable11_p1/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://mathilde-prds.github.io/IIIF-fables-project/images/fable11_p1",
+            "profile" : "http://iiif.io/api/image/2/level0.json"
+          },
+          "height" : 1843,
+          "width" : 1317
+        },
+        "on" : "http://d180ea8f-877f-4138-8727-de3026c9ba9d"
+      } ],
+      "related" : ""
+    }, {
+      "@id" : "http://80169b88-1800-4d57-b399-1752d5736bf8",
+      "@type" : "sc:Canvas",
+      "label" : "L'Homme, & son Image",
+      "metadata" : [ {
+        "label" : "Page",
+        "value" : "2/2"
+      } ],
+      "height" : 1850,
+      "width" : 1311,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://8c53c071-6e68-46d5-a5a6-742eacb3df82",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://mathilde-prds.github.io/IIIF-fables-project/images/fable11_p2/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://mathilde-prds.github.io/IIIF-fables-project/images/fable11_p2",
+            "profile" : "http://iiif.io/api/image/2/level0.json"
+          },
+          "height" : 1850,
+          "width" : 1311
+        },
+        "on" : "http://80169b88-1800-4d57-b399-1752d5736bf8"
+      } ],
+      "related" : ""
+    } ]
+  } ],
+  "structures" : [ {
+    "@id" : "http://example.org/iiif/book1/range/intro",
+    "@type" : "sc:Range",
+    "label" : "Fable 9 : Le Rat de Ville & le Rat des Champs",
+    "canvases" : [ "http://ba46339d-2b5d-4245-8fe2-a1d675a2b78a", "http://44b8bf6a-0a86-4e4a-82c9-33b0a42b2120" ]
+  }, {
+    "@id" : "http://example.org/iiif/book1/range/intro",
+    "@type" : "sc:Range",
+    "label" : "Fable 10 : Le Loup & l'Agneau",
+    "canvases" : [ "http://0e809085-0d76-4dbc-b675-8be5a595526d", "http://0fd9060a-c5d5-4b1a-90e6-9080f5e01d42" ]
+  }, {
+    "@id" : "http://example.org/iiif/book1/range/intro",
+    "@type" : "sc:Range",
+    "label" : "Fable 11 : L'Homme &, son Image'",
+    "canvases" : [ "http://d180ea8f-877f-4138-8727-de3026c9ba9d", "http://80169b88-1800-4d57-b399-1752d5736bf8" ]
+  } ]
+}
