@@ -220,17 +220,17 @@
     } ]
   } ],
   "structures" : [ {
-    "@id" : "http://example.org/iiif/book1/range/intro",
+    "@id" : "http://example.org/iiif/book1/range/fable9",
     "@type" : "sc:Range",
     "label" : "Fable 9 : Le Rat de Ville & le Rat des Champs",
     "canvases" : [ "http://ba46339d-2b5d-4245-8fe2-a1d675a2b78a", "http://44b8bf6a-0a86-4e4a-82c9-33b0a42b2120" ]
   }, {
-    "@id" : "http://example.org/iiif/book1/range/intro",
+    "@id" : "http://example.org/iiif/book1/range/fable10",
     "@type" : "sc:Range",
     "label" : "Fable 10 : Le Loup & l'Agneau",
     "canvases" : [ "http://0e809085-0d76-4dbc-b675-8be5a595526d", "http://0fd9060a-c5d5-4b1a-90e6-9080f5e01d42" ]
   }, {
-    "@id" : "http://example.org/iiif/book1/range/intro",
+    "@id" : "http://example.org/iiif/book1/range/fable11",
     "@type" : "sc:Range",
     "label" : "Fable 11 : L'Homme &, son Image'",
     "canvases" : [ "http://d180ea8f-877f-4138-8727-de3026c9ba9d", "http://80169b88-1800-4d57-b399-1752d5736bf8" ]
