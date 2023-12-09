@@ -1,0 +1,171 @@
+{
+  "@type" : "sc:AnnotationList",
+  "resources" : [ {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Rhyme scheme : ABAB",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>Rhyme scheme : ABAB</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1240244679/118297232159736909243",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2023-12-08T16:32:51",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1702053171319",
+    "dcterms:modified" : "2023-12-08T16:45:55",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://Mathilde-prds.github.io/IIIF-fables-project/manifests/manifest.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=291,1190,814,232"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M290.79236,1421.96945h407.23709v0h407.23709v-115.87564v-115.87564h-407.23709h-407.23709v115.87564z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;annotation&quot;:null,&quot;nonHoverStrokeColor&quot;:[&quot;Color&quot;,0,0.74902,1],&quot;editable&quot;:true}\" id=\"rectangle_6603d668-1c82-4430-853e-992989385135\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"21.14286\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://80169b88-1800-4d57-b399-1752d5736bf8"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Rhyme scheme : ABBA",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>Rhyme scheme : ABBA</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1240244679/118297232159736909243",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2023-12-08T16:31:43",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1702053103662",
+    "dcterms:modified" : "2023-12-08T16:45:32",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://Mathilde-prds.github.io/IIIF-fables-project/manifests/manifest.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=280,657,823,242"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M279.97619,656.95238h411.55952v0h411.55952v120.80952v120.80952h-411.55952h-411.55952v-120.80952z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;annotation&quot;:null,&quot;nonHoverStrokeColor&quot;:[&quot;Color&quot;,0,0.74902,1],&quot;editable&quot;:true}\" id=\"rectangle_a65b7d28-c55a-4e8d-af7f-43fcafd68ced\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"21.14286\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://80169b88-1800-4d57-b399-1752d5736bf8"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Rhyme scheme : ABAB",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>Rhyme scheme : ABAB</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1240244679/118297232159736909243",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2023-12-08T16:32:17",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1702053137723",
+    "dcterms:modified" : "2023-12-08T16:45:42",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://Mathilde-prds.github.io/IIIF-fables-project/manifests/manifest.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=280,904,894,284"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M279.97619,903.61905h446.7619v0h446.7619v141.95238v141.95238h-446.7619h-446.7619v-141.95238z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;annotation&quot;:null,&quot;nonHoverStrokeColor&quot;:[&quot;Color&quot;,0,0.74902,1],&quot;editable&quot;:true}\" id=\"rectangle_2859da2b-564f-47af-82a8-afb66a918933\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"21.14286\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://80169b88-1800-4d57-b399-1752d5736bf8"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Rhyme scheme (continuation) : ABBA",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>Rhyme scheme (continuation) : ABBA</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1240244679/118297232159736909243",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2023-12-08T16:27:20",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1702052840930",
+    "dcterms:modified" : "2023-12-08T16:45:09",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://Mathilde-prds.github.io/IIIF-fables-project/manifests/manifest.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=336,178,629,122"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M336.35714,177.71429h314.61905v0h314.61905v60.90476v60.90476h-314.61905h-314.61905v-60.90476z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;annotation&quot;:null,&quot;nonHoverStrokeColor&quot;:[&quot;Color&quot;,0,0.74902,1],&quot;editable&quot;:true}\" id=\"rectangle_a17220a2-78d1-40db-b869-3d168ee8a524\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"21.14286\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://80169b88-1800-4d57-b399-1752d5736bf8"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Rhyme scheme : AABBCC",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>Rhyme scheme : AABBCC</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1240244679/118297232159736909243",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2023-12-08T16:30:57",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1702053057754",
+    "dcterms:modified" : "2023-12-08T16:45:22",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://Mathilde-prds.github.io/IIIF-fables-project/manifests/manifest.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=269,298,834,347"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M269.40476,297.52381h416.80952v0h416.80952v173.66667v173.66667h-416.80952h-416.80952v-173.66667z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;annotation&quot;:null,&quot;nonHoverStrokeColor&quot;:[&quot;Color&quot;,0,0.74902,1],&quot;editable&quot;:true}\" id=\"rectangle_4fd95f60-79a1-4f06-b5de-70e7f4e034eb\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"21.14286\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://80169b88-1800-4d57-b399-1752d5736bf8"
+    } ]
+  } ],
+  "@id" : "https://Mathilde-prds.github.io/IIIF-fables-project/annotations/6965c0ae868bbd5186084e5314a2e93d.json",
+  "@context" : "http://iiif.io/api/presentation/2/context.json"
+}
