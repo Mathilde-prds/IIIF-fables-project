@@ -1,0 +1,204 @@
+{
+  "@type" : "sc:AnnotationList",
+  "resources" : [ {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Rhyme scheme : ABABCC",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>Rhyme scheme : ABABCC</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1240244679/118297232159736909243",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2023-12-08T16:21:43",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1702052503694",
+    "dcterms:modified" : "2023-12-08T16:44:12",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://Mathilde-prds.github.io/IIIF-fables-project/manifests/manifest.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=153,1015,894,404"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M152.61111,1015.16317h446.91417v0h446.91417v201.87489v201.87489h-446.91417h-446.91417v-201.87489z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;annotation&quot;:null,&quot;nonHoverStrokeColor&quot;:[&quot;Color&quot;,0,0.74902,1],&quot;editable&quot;:true}\" id=\"rectangle_97210862-7cf4-41c9-81e9-70e5d13a383c\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"21.06286\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://d180ea8f-877f-4138-8727-de3026c9ba9d"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Engraving by Fran&ccedil;ois Chauveau (<a href=\"https://fr.wikipedia.org/wiki/Fran%C3%A7ois_Chauveau\" target=\"_blank\" rel=\"noopener\">Wikipedia)",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>Engraving by Fran&ccedil;ois Chauveau (<a href=\"https://fr.wikipedia.org/wiki/Fran%C3%A7ois_Chauveau\" target=\"_blank\" rel=\"noopener\">Wikipedia</a>)</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1240244679/118297232159736909243",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2023-12-08T16:12:43",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1702051963440",
+    "dcterms:modified" : "2023-12-08T16:12:43",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://Mathilde-prds.github.io/IIIF-fables-project/manifests/manifest.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=316,360,539,444"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M315.98381,359.57905h269.55143v0h269.55143v222.16v222.16h-269.55143h-269.55143v-222.16z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_59abf196-8bb6-48f7-9d2f-233d9681aaf6\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://d180ea8f-877f-4138-8727-de3026c9ba9d"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "\"Son Image\" (his reflection in the water)",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>\"Son Image\" (his reflection in the water)</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1240244679/118297232159736909243",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2023-12-08T16:36:07",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1702053367120",
+    "dcterms:modified" : "2023-12-08T16:36:07",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://Mathilde-prds.github.io/IIIF-fables-project/manifests/manifest.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=437,725,149,40"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M437.07542,724.93267h74.51855v0h74.51855v20.22793v20.22793h-74.51855h-74.51855v-20.22793z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_c33d3bfc-2e8f-47a3-abe6-2a1c7bc80a12\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://d180ea8f-877f-4138-8727-de3026c9ba9d"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "\"L'Homme\" (the man)",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>\"L'Homme\" (the man)</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1240244679/118297232159736909243",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2023-12-08T16:34:44",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1702053284615",
+    "dcterms:modified" : "2023-12-08T16:34:44",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://Mathilde-prds.github.io/IIIF-fables-project/manifests/manifest.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=593,533,88,83"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M593.16095,532.6534h43.98007v0h43.98007v41.71796v41.71796h-43.98007h-43.98007v-41.71796z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_5a0da620-141e-47f9-a72b-25c059cb08cd\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://d180ea8f-877f-4138-8727-de3026c9ba9d"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Dedication to \"Monsieur le duc de La Rochefoucauld\", Les Maximes had just been published.",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>Dedication to \"Monsieur le duc de La Rochefoucauld\", <em>Les Maximes</em> had just been published.</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1240244679/118297232159736909243",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2023-12-08T16:16:44",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1702052204268",
+    "dcterms:modified" : "2023-12-08T16:16:44",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://Mathilde-prds.github.io/IIIF-fables-project/manifests/manifest.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=302,911,592,97"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M301.9419,910.72381h295.88v0h295.88v48.39143v48.39143h-295.88h-295.88v-48.39143z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_dfaf234c-5c47-411e-9968-c5b2828f2171\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://d180ea8f-877f-4138-8727-de3026c9ba9d"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Rhyme scheme : ABBA",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>Rhyme scheme : ABBA</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1240244679/118297232159736909243",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2023-12-08T16:25:55",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1702052755635",
+    "dcterms:modified" : "2023-12-08T16:44:28",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://Mathilde-prds.github.io/IIIF-fables-project/manifests/manifest.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=138,1409,894,149"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M138.1,1408.77382h446.824v0h446.824v74.51855v74.51855h-446.824h-446.824v-74.51855z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;annotation&quot;:null,&quot;nonHoverStrokeColor&quot;:[&quot;Color&quot;,0,0.74902,1],&quot;editable&quot;:true}\" id=\"rectangle_aa0bdd78-18a6-43ed-8f71-c27ed7d5a76a\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"10.90909\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://d180ea8f-877f-4138-8727-de3026c9ba9d"
+    } ]
+  } ],
+  "@id" : "https://Mathilde-prds.github.io/IIIF-fables-project/annotations/e148e3e0f91be034b02dc0e0d98ce7f1.json",
+  "@context" : "http://iiif.io/api/presentation/2/context.json"
+}
