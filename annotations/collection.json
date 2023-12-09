@@ -1,0 +1,7 @@
+{
+  "@type" : "sc:Layer",
+  "otherContent" : [ "https://Mathilde-prds.github.io/IIIF-fables-project/annotations/6001b34d2e93202e3a12f752523953b3.json" ],
+  "@id" : "https://Mathilde-prds.github.io/IIIF-fables-project/annotations/collection.json",
+  "label" : "All annotations loaded in Mathilde-prds/IIIF-fables-project project",
+  "@context" : "http://iiif.io/api/presentation/2/context.json"
+}
