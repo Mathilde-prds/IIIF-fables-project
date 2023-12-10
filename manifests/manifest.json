@@ -3,6 +3,11 @@
   "@id" : "https://Mathilde-prds.github.io/IIIF-fables-project/manifests/manifest.json",
   "@type" : "sc:Manifest",
   "label" : "Mathilde Prades's manifest",
+  "service" : {
+    "profile" : "http://iiif.io/api/search/0/search",
+    "@id" : "https://dev.gdmrdigital.com/search-api/1240244679/118297232159736909243/da8756eb96b6f408f567491b39a171c7/search",
+    "@context" : "http://iiif.io/api/search/0/context.json"
+  },
   "metadata" : [ {
     "label" : "Author",
     "value" : "La Fontaine, Jean de (1621-1695)"
@@ -66,7 +71,11 @@
         },
         "on" : "http://ba46339d-2b5d-4245-8fe2-a1d675a2b78a"
       } ],
-      "related" : ""
+      "otherContent" : [ {
+        "@id" : "https://mathilde-prds.github.io/IIIF-fables-project/annotations/p1.json",
+        "@type" : "sc:AnnotationList",
+        "label" : "Annotations page 1"
+      } ]
     }, {
       "@id" : "http://44b8bf6a-0a86-4e4a-82c9-33b0a42b2120",
       "@type" : "sc:Canvas",
@@ -96,7 +105,11 @@
         },
         "on" : "http://44b8bf6a-0a86-4e4a-82c9-33b0a42b2120"
       } ],
-      "related" : ""
+      "otherContent" : [ {
+        "@id" : "https://mathilde-prds.github.io/IIIF-fables-project/annotations/p2.json",
+        "@type" : "sc:AnnotationList",
+        "label" : "Annotations page 2"
+      } ]
     }, {
       "@id" : "http://0e809085-0d76-4dbc-b675-8be5a595526d",
       "@type" : "sc:Canvas",
@@ -126,7 +139,11 @@
         },
         "on" : "http://0e809085-0d76-4dbc-b675-8be5a595526d"
       } ],
-      "related" : ""
+      "otherContent" : [ {
+        "@id" : "https://mathilde-prds.github.io/IIIF-fables-project/annotations/p3.json",
+        "@type" : "sc:AnnotationList",
+        "label" : "Annotations page 3"
+      } ]
     }, {
       "@id" : "http://0fd9060a-c5d5-4b1a-90e6-9080f5e01d42",
       "@type" : "sc:Canvas",
@@ -156,7 +173,11 @@
         },
         "on" : "http://0fd9060a-c5d5-4b1a-90e6-9080f5e01d42"
       } ],
-      "related" : ""
+      "otherContent" : [ {
+        "@id" : "https://mathilde-prds.github.io/IIIF-fables-project/annotations/p4.json",
+        "@type" : "sc:AnnotationList",
+        "label" : "Annotations page 4"
+      } ]
     }, {
       "@id" : "http://d180ea8f-877f-4138-8727-de3026c9ba9d",
       "@type" : "sc:Canvas",
@@ -186,7 +207,11 @@
         },
         "on" : "http://d180ea8f-877f-4138-8727-de3026c9ba9d"
       } ],
-      "related" : ""
+      "otherContent" : [ {
+        "@id" : "https://mathilde-prds.github.io/IIIF-fables-project/annotations/p5.json",
+        "@type" : "sc:AnnotationList",
+        "label" : "Annotations page 5"
+      } ]
     }, {
       "@id" : "http://80169b88-1800-4d57-b399-1752d5736bf8",
       "@type" : "sc:Canvas",
@@ -216,7 +241,11 @@
         },
         "on" : "http://80169b88-1800-4d57-b399-1752d5736bf8"
       } ],
-      "related" : ""
+      "otherContent" : [ {
+        "@id" : "https://mathilde-prds.github.io/IIIF-fables-project/annotations/p6.json",
+        "@type" : "sc:AnnotationList",
+        "label" : "Annotations page 6"
+      } ]
     } ]
   } ],
   "structures" : [ {
