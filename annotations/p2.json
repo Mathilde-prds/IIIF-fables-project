@@ -2,7 +2,7 @@
   "@type" : "sc:AnnotationList",
   "resources" : [ {
     "resource" : [ {
-      "http://dev.llgc.org.uk/sas/full_text" : "Developement",
+      "http://dev.llgc.org.uk/sas/full_text" : "Development",
       "@type" : "dctypes:Text",
       "format" : "text/html",
       "chars" : "<p>Development</p>"
