@@ -1,40 +1,6 @@
 {
   "@type" : "sc:AnnotationList",
-  "resources" : [ {
-    "resource" : [ {
-      "http://dev.llgc.org.uk/sas/full_text" : "Development",
-      "@type" : "dctypes:Text",
-      "format" : "text/html",
-      "chars" : "<p>Development</p>"
-    } ],
-    "@type" : "oa:Annotation",
-    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1240244679/118297232159736909243",
-    "motivation" : [ "oa:commenting" ],
-    "dcterms:created" : "2023-12-08T15:48:58",
-    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1702050538425",
-    "dcterms:modified" : "2023-12-10T10:16:03",
-    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
-    "on" : [ {
-      "within" : {
-        "@type" : "sc:Manifest",
-        "@id" : "https://Mathilde-prds.github.io/IIIF-fables-project/manifests/manifest.json"
-      },
-      "@type" : "oa:SpecificResource",
-      "selector" : {
-        "default" : {
-          "@type" : "oa:FragmentSelector",
-          "value" : "xywh=342,480,618,947"
-        },
-        "item" : {
-          "@type" : "oa:SvgSelector",
-          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M341.61441,479.87642h309.09926v0h309.09926v473.32838v473.32838h-309.09926h-309.09926v-473.32838z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;annotation&quot;:null,&quot;nonHoverStrokeColor&quot;:[&quot;Color&quot;,0.67843,0.33725,0.96863],&quot;editable&quot;:true,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null}\" id=\"rectangle_ec21cf57-9ed4-440e-88c8-fee46f931f74\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ad56f7\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
-        },
-        "@type" : "oa:Choice"
-      },
-      "full" : "http://44b8bf6a-0a86-4e4a-82c9-33b0a42b2120"
-    } ]
-  }, {
-    "resource" : [ {
+  "resource" : [ {
       "http://dev.llgc.org.uk/sas/full_text" : "Dialogue",
       "@type" : "dctypes:Text",
       "format" : "text/html",
