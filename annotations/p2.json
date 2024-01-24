@@ -5,7 +5,7 @@
       "http://dev.llgc.org.uk/sas/full_text" : "Developement",
       "@type" : "dctypes:Text",
       "format" : "text/html",
-      "chars" : "<p>Developement</p>"
+      "chars" : "<p>Development</p>"
     } ],
     "@type" : "oa:Annotation",
     "dcterms:creator" : "https://dev.gdmrdigital.com/user/1240244679/118297232159736909243",
