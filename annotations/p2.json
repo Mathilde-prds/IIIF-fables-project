@@ -101,10 +101,10 @@
     } ]
   }, {
     "resource" : [ {
-      "http://dev.llgc.org.uk/sas/full_text" : "Introduction",
+      "http://dev.llgc.org.uk/sas/full_text" : "Setting",
       "@type" : "dctypes:Text",
       "format" : "text/html",
-      "chars" : "<p>Introduction</p>"
+      "chars" : "<p>Setting</p>"
     } ],
     "@type" : "oa:Annotation",
     "dcterms:creator" : "https://dev.gdmrdigital.com/user/1240244679/118297232159736909243",
